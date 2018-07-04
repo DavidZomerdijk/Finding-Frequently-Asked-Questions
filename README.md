@@ -10,3 +10,4 @@ In this one can find all code not relating to the ABN AMRO for the Masterthesis 
 * readers: contains readers classes, these can convert reader data into a useful object for the models
 * saved: a directory where models are saved
 * tm: contains code for several topic models
+* lstm_encoder: contains code that uses the bi-lstm encoder for Prodlda
