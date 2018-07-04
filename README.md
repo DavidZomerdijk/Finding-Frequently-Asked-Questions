@@ -2,7 +2,7 @@
 
 In this one can find all code not relating to the ABN AMRO for the Masterthesis by David Zomerdijk, Finding Frequently Asked Questions.
 
-**The folders contain:**
+**The directory contains the following subdirectories:**
 * analysis: contains code to explore the topic models latent space
 * data: contains some of the public datasets 
 * lm: contains code for the language models
