@@ -1,6 +1,8 @@
 # Finding Frequently Asked Questions
 
-In this one can find all code not relating to the ABN AMRO for the Masterthesis by David Zomerdijk, Finding Frequently Asked Questions.
+In this repository one can find all related code to the Master thesis 'Finding Frequently Asked Questions' by David Zomerdijk. This research carried out during a Master degree in Artificial Intelligence on the University of Amsterdam. 
+
+The thesis was done in cooperation with ABN AMRO bank, all code pertaining ABN AMRO data is not publicly available.
 
 **The directory contains the following subdirectories:**
 * analysis: contains code to explore the topic models latent space
